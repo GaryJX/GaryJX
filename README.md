@@ -3,7 +3,7 @@
 I’m a software developer based in Toronto, Canada, and I am currently in my 3rd year of studying Computer Science at University of Toronto.
 
 I’ve been lucky enough to experience a variety of software development internships during my undergraduate studies.
-I have previously interned at [Verto Health](https://verto.health/), and I am currently finishing up a 16-month internship at [IBM](https://verto.health/).
+I have previously interned at [Verto Health](https://verto.health/), and I recently finished a 16-month internship at [IBM](https://www.ibm.com/).
 
 👀 I'm always open to new opportunities! Feel free to reach out to me at:
 
