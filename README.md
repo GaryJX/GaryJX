@@ -5,7 +5,7 @@ I’m a software developer based in Toronto, Canada, and I am currently in my 3r
 I’ve been lucky enough to experience a variety of software development internships during my undergraduate studies.
 I have previously interned at [Verto Health](https://verto.health/), and I recently finished a 16-month internship at [IBM](https://www.ibm.com/).
 
-👀 I'm always open to new opportunities! Feel free to reach out to me at:
+I'm always open to new opportunities! Feel free to reach out to me at:
 
 <a href="https://www.linkedin.com/in/GaryJX/" style="display: flex; align-items: center; justify-content: center;">
   <img align="left" alt="Gary Xie LinkedIn" src="https://raw.githubusercontent.com/GaryJX/GaryJX/main/assets/linkedin.svg" />
