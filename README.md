@@ -1,6 +1,6 @@
 👋 Hi, my name is Gary!
 
-I’m a software engineer based in Toronto, Canada, currently in my junior year studying Computer Science at the University of Toronto, majoring in Software Engineering.
+I’m a software engineer based in Toronto, Canada, currently in my junior year of Computer Science at the University of Toronto, majoring in Software Engineering.
   
 I’ve been lucky enough to experience a variety of software development internships during my undergraduate studies.
 I have previously interned at [Verto Health](https://verto.health/), and I recently finished a 16-month internship at [IBM](https://www.ibm.com/).
