@@ -8,7 +8,7 @@ I have previously interned at [Verto Health](https://verto.health/), and I recen
 I'm always open to new opportunities! Feel free to learn more or reach out to me at:
 https://garyxie.me
 
-<a href="https://www.linkedin.com/in/GaryJX/" style="display: flex; align-items: center; justify-content: center;">
+<a href="https://www.linkedin.com/in/garyxie/" style="display: flex; align-items: center; justify-content: center;">
   <img align="left" alt="Gary Xie LinkedIn" src="https://raw.githubusercontent.com/GaryJX/GaryJX/main/assets/linkedin.svg" />
 </a>
 
